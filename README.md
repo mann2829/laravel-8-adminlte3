@@ -87,6 +87,7 @@ That's it you are ready to go. Enjoy!!!!
 
 ## Admin Login Detail
 email or username : admin@gmail.com
+
 password : password 
 
 ## Admin Lte 3 Theme used in this project 
