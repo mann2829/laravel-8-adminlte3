@@ -67,14 +67,14 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## Install Project
-   1.First "Clone or Download" the project in your desired location.
-   2.Run "npm install" command in project root directory.
-   3.Run "composer install" command in project root directory.
-   4.Run "cp .env.example .env" this will make a .env file. add sudo before command if you are using ubuntu
-   5.Set db configuration in .env file and run "php artisan key:genearte" for generate the key if key is not present in .env file.
-   6.Run "php artisan migrate" command for create migration tables in database.
-   7.Run "php artisan db:seed" command for insert dummy records in database.
-   8.Run "sudo chmod -R 777 storage or bootstrap" if you are using ubuntu. it will give permission to storage and bootstrap folder.
+1.First "Clone or Download" the project in your desired location.
+2.Run "npm install" command in project root directory.
+3.Run "composer install" command in project root directory.
+4.Run "cp .env.example .env" this will make a .env file. add sudo before command if you are using ubuntu
+5.Set db configuration in .env file and run "php artisan key:genearte" for generate the key if key is not present in .env file.
+6.Run "php artisan migrate" command for create migration tables in database.
+7.Run "php artisan db:seed" command for insert dummy records in database.
+8.Run "sudo chmod -R 777 storage or bootstrap" if you are using ubuntu. it will give permission to storage and bootstrap folder.
 
 That's it you are ready to go. Enjoy!!!!
 
