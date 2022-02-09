@@ -81,7 +81,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 7.Run "php artisan db:seed" command for insert dummy records in database.
 
-8.Run "sudo chmod -R 777 storage or bootstrap" if you are using ubuntu. it will give permission to storage and bootstrap folder.
+8.Run "sudo chmod -R 777 storage and bootstrap" if you are using ubuntu. it will give permission to storage and bootstrap folder.
 
 That's it you are ready to go. Enjoy!!!!
 
